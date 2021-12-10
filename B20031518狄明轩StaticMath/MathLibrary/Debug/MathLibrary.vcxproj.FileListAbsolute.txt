@@ -1,0 +1,2 @@
+D:\B20031518\StaticMath\Debug\MathLibrary.pdb
+D:\B20031518\StaticMath\MathLibrary\Debug\MathLibrary.pdb
